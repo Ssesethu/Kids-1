@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"><q>Kids</q>"</string>
+    <string name="animals">animals</string>
+    <string name="sport">sport</string>
+    <string name="maths">maths</string>
+
+</resources>
